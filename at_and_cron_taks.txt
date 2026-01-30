@@ -1,0 +1,22 @@
+this is Fri Jan 30 08:25:01 AM IST 2026 file and folder backup argument_in_script.sh
+arithmetic_operations.sh
+array.sh
+at_and_crontab.sh
+at_and_cron_taks.txt
+break_continue_condition.sh
+case.sh
+com.sh
+conectivity_check.sh
+for_loop.sh
+function.sh
+if_else.sh
+logfile_usecase.sh
+loggin.sh
+logical_operator.sh
+projects
+random_and_uid.sh
+sleep_exit_condition.sh
+string_operation.sh
+until_and_infinte_loop.sh
+user_input.sh
+while_loop.sh 
