@@ -1,23 +1,41 @@
 # 🐧 Bash Shell Scripting Practice Repository
 
-This repository contains my **Linux Bash Shell Scripting practice scripts**, covering all important Bash concepts such as:
+![Bash](https://img.shields.io/badge/Shell-Bash-green?style=for-the-badge&logo=gnu-bash)
+![Linux](https://img.shields.io/badge/Linux-Scripting-blue?style=for-the-badge&logo=linux)
+![DevOps](https://img.shields.io/badge/DevOps-Automation-orange?style=for-the-badge)
 
-✅ Variables  
-✅ User Input  
-✅ Conditional Statements  
-✅ Loops  
-✅ Functions  
-✅ Arrays  
-✅ Operators  
-✅ Logging  
-✅ Automation with Cron & AT  
-✅ Real-world Mini Projects  
+Welcome to my **Bash Shell Scripting Practice Repository**.
 
-This repository is very helpful for **Linux beginners, DevOps learners, and interview preparation**.
+This repository contains a collection of Linux Bash scripts that cover both  
+**fundamental scripting concepts** and **real-world automation use cases**.
+
+It is useful for:
+
+- Linux Beginners  
+- DevOps Freshers  
+- System Administration Practice  
+- Interview Preparation  
+- Automation Learning  
 
 ---
 
-## 📂 Repository Structure
+## ✅ Topics Covered
+
+This repository includes scripts based on:
+
+- Variables and User Input  
+- Conditional Statements (`if`, `case`)  
+- Loops (`for`, `while`, `until`)  
+- Functions and Arguments  
+- Arrays  
+- String and Arithmetic Operations  
+- Logging and Monitoring  
+- Cron Jobs and Task Scheduling  
+- Real-world Mini Projects  
+
+---
+
+## 📂 Repository Directory Structure
 
 ```bash
 ├── argument_in_script.sh
@@ -35,95 +53,16 @@ This repository is very helpful for **Linux beginners, DevOps learners, and inte
 ├── logfile_usecase.sh
 ├── loggin.sh
 ├── logical_operator.sh
-├── projects
-│   ├── archive
-│   │   └── archive_prectice.txt.gz
-│   ├── arvice_file.sh
-│   ├── calculator.sh
-│   ├── monitor_free_disk_sent_an_alert_email.sh
-│   └── monitor_free_space.sh
 ├── random_and_uid.sh
 ├── sleep_exit_condition.sh
 ├── string_operation.sh
 ├── until_and_infinte_loop.sh
-
-
-These scripts are useful for beginners and DevOps/Linux learners.
-
----
-
-## 📂 Repository Structure
-
-Below is the list of scripts available:
-
-### 🔹 Basic Scripts
-
-| Script Name | Description |
-|------------|-------------|
-| `com.sh` | Basic command/script example |
-| `user_input.sh` | Taking input from user |
-| `string_operation.sh` | String operations in bash |
-| `arithmetic_operations.sh` | Arithmetic calculations |
-| `random_and_uid.sh` | Random number & UID generation |
-
----
-
-### 🔹 Conditional Statements
-
-| Script Name | Description |
-|------------|-------------|
-| `if_else.sh` | If-Else conditions |
-| `case.sh` | Case statement examples |
-| `logical_operator.sh` | Logical operators usage |
-| `break_continue_condition.sh` | Break & Continue conditions |
-| `sleep_exit_condition.sh` | Sleep and exit conditions |
-
----
-
-### 🔹 Loops in Bash
-
-| Script Name | Description |
-|------------|-------------|
-| `for_loop.sh` | For loop examples |
-| `while_loop.sh` | While loop examples |
-| `until_and_infinte_loop.sh` | Until loop & infinite loops |
-
----
-
-### 🔹 Arrays and Functions
-
-| Script Name | Description |
-|------------|-------------|
-| `array.sh` | Array operations |
-| `function.sh` | Functions in bash |
-| `argument_in_script.sh` | Passing arguments to scripts |
-
----
-
-### 🔹 Logging & Monitoring
-
-| Script Name | Description |
-|------------|-------------|
-| `loggin.sh` | Basic logging script |
-| `logfile_usecase.sh` | Logfile practical use case |
-| `conectivity_check.sh` | Network connectivity check |
-
----
-
-### 🔹 Automation with Cron & AT
-
-| Script Name | Description |
-|------------|-------------|
-| `at_and_crontab.sh` | Scheduling jobs using `at` and `cron` |
-| `at_and_cron_taks.txt` | Notes and examples for cron tasks |
-
----
-
-## 📁 Projects Folder
-
-The repository also contains a folder:
-
-```bash
-projects/
 ├── user_input.sh
-└── while_loop.sh
+├── while_loop.sh
+└── projects
+    ├── archive
+    │   └── archive_prectice.txt.gz
+    ├── arvice_file.sh
+    ├── calculator.sh
+    ├── monitor_free_disk_sent_an_alert_email.sh
+    └── monitor_free_space.sh
