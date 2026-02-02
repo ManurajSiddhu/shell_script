@@ -65,4 +65,5 @@ This repository includes scripts based on:
     ├── arvice_file.sh
     ├── calculator.sh
     ├── monitor_free_disk_sent_an_alert_email.sh
-    └── monitor_free_space.sh
+    ├── monitor_free_space.sh
+    └── user_create.sh
